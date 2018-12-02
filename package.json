@@ -1,0 +1,11 @@
+{
+  "name": "FirstGraphQLServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/azxca1731/FirstGraphQLServer.git",
+  "author": "azxca1731 <azxca1731@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7"
+  }
+}
